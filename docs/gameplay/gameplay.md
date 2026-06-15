@@ -1,0 +1,2 @@
+## POV Rule
+Whichever character ends a battle/encounter becomes the character whose POV is used for the next section of the story. Ex: If Nia is the final character to finish the encounter, then the player will follow her POV for the next section.
