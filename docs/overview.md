@@ -1,22 +1,26 @@
 # As One v2 Overview
 
 ## Core Idea
+
 A character-switching game where three characters fight different layers of the same threat during linked encounters.
 
-Nia fights internal battles through a turn-based RPG system with Sunny.
-Antoine fights physical battles through a beat-em-up system.
-陳柏安 fights tactical battles through a strategy system.
+Nia faces fear, grief, and danger through a puzzle-RPG system inside her imagined paradise. She commands Sunny, her stuffed tiger protector, and uses memories of HEARTLINE songs to stay calm, observe, and speak.
+
+Antoine fights physical battles through a beat-em-up system. His story focuses on protecting Nia while confronting the old life he tried to escape.
+
+陳柏安 fights tactical battles through a strategy system. His story focuses on investigation, security coordination, evidence, and controlling dangerous situations.
 
 Each character’s actions affect the same shared crisis.
 
-## Story [tentative]
-An internationally famous Taiwanese pop group is preparing to perform at Jazz Fest in New Orleans. But their arrival attracts a hidden threat involving people from both Taiwan and New Orleans.
+## Story 
 
-陳柏安 is a Taiwanese officer assigned to investigate and stop the threat before the festival.
+HEARTLINE, an internationally famous Taiwanese pop act, is preparing to perform at Jazz Fest in New Orleans. Their arrival becomes the center of a hidden threat involving a Taiwan-side insider, New Orleans local fixers, and evidence hidden inside the group’s festival equipment.
 
-Antoine is a New Orleans resident who gets dragged back into a life he has been trying to escape. His past seems connected to the danger surrounding the group’s arrival.
+陳柏安 is a Taiwanese police investigator assigned to an international security liaison team connected to HEARTLINE’s trip. He follows suspicious access records, equipment changes, and security anomalies toward New Orleans.
 
-Nia is a young Jehovah’s Witness child. She owns a stuffed tiger named Sunny. In her imagination, Sunny is her pet in paradise. But when Nia becomes overwhelmed, Sunny transforms into her protector.
+Antoine is a New Orleans resident trying to leave his old life behind. When people from his past are hired as local fixers for the HEARTLINE job, they pressure him to help and threaten Nia when he refuses.
+
+Nia is a 9-year-old Jehovah’s Witness child grieving her best friend Annika. She wants to see HEARTLINE at Jazz Fest because it was their shared dream. Her stuffed tiger Sunny becomes her protector in imagined paradise scenes, while HEARTLINE songs help her stay calm and remember what adults overlook.
 
 ## Characters
 ### Girl (Nia [tentative]) & tiger (Sunny [tentative])
