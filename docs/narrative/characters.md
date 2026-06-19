@@ -43,8 +43,6 @@ Example uses:
 - Sunny Guard: allows Sunny to protect Nia from fear, panic, or imagined danger.
 - Sunny Sense: reveals hidden details inside Nia’s paradise space.
 
-### Design
-
 ## Sunny
 
 - Type: Stuffed tiger / imagined protector
@@ -68,8 +66,6 @@ Possible commands include:
 - Roar: pushes back fear, silence, or pressure.
 - Pounce: breaks emotional obstacles or interrupts imagined threats.
 - Stay: holds a space, memory, or danger in place while Nia moves.
-
-### Design
 
 ## Antoine
 
@@ -104,9 +100,6 @@ Antoine’s gameplay is physical and direct. He fights literal enemies, protects
 
 His biggest gameplay tension is control: he is strong enough to hurt people, but his goal is to protect without losing himself to violence.
 
-### Design
-
-
 ## 陳柏安
 
 - Age: 34
@@ -136,8 +129,6 @@ The case eventually leads him toward Antoine’s past and Nia’s world, though 
 
 He can identify patterns and inconsistencies, but he does not immediately understand the local meaning behind them. His evidence points toward New Orleans, but Antoine understands the people behind the local crew, and Nia notices fan-facing details that official records miss.
 
-### Design
-
 # Non-player Characters
 
 ## Annika
@@ -158,8 +149,6 @@ Annika is killed by stray gunfire during gang-related violence in the neighborho
 
 After her death, Annika remains present in Nia’s memory. When Nia is scared, she sometimes imagines what Annika would say to help her be brave.
 
-### Design
-
 ## HEARTLINE
 
 HEARTLINE functions as the emotional and plot center of the story.
@@ -171,8 +160,6 @@ For Antoine, HEARTLINE’s arrival creates the situation that brings his old lif
 For 柏安, HEARTLINE’s trip is the case that reveals the connection between Taiwan-side corruption and New Orleans local fixers.
 
 HEARTLINE’s songs also appear in Nia’s gameplay as memories that help her stay calm, remember Annika, and notice important details.
-
-### Design
 
 ## Nia's Mom [tentative name]
 
@@ -196,8 +183,6 @@ Her relationship with Antoine is complicated. She loves her brother, but she kno
 ### Story Role
 Nia’s mother represents the adult world trying to comfort and protect Nia. She also creates emotional tension around whether Nia should be allowed to attend Jazz Fest.
 
-### Design
-
 ## Antoine's Girlfriend [tentative name]
 
 - Age: 28-32 [tentative]
@@ -219,8 +204,6 @@ When Antoine’s old life starts reaching for him again, she becomes one of the 
 
 ### Story Role
 Antoine’s girlfriend challenges Antoine’s belief that protection means carrying everything by himself. She is not there to “fix” him. She forces him to decide whether he actually wants a different life or just wants to keep surviving the old one.
-
-### Design
 
 # Antagonists
 
@@ -244,8 +227,6 @@ The Taiwan-side insider creates the international side of the threat. They are t
 
 They should not feel like a cartoon villain. Their power comes from access, secrecy, and the ability to make suspicious things look like normal event logistics.
 
-### Design
-
 ## New Orleans Fixer Crew [tentative name]
 
 - Residence: New Orleans
@@ -264,8 +245,6 @@ They approach Antoine because he knows the city, the routes, and the kinds of pe
 The fixer crew grounds the international threat in Antoine’s world.
 
 They connect the HEARTLINE case to New Orleans street-level danger, and they force Antoine to confront the life he tried to escape.
-
-### Design
 
 ## HEARTLINE Whistleblower [tentative name]
 
@@ -286,5 +265,3 @@ They may be a staff member, former manager, security assistant, production worke
 The whistleblower is the reason the main threat exists. They are trying to make the truth visible, but their actions put HEARTLINE, Nia, Antoine, and others in danger.
 
 For now, this character does not need to be fully revealed. Their identity can stay tentative until the plot needs it.
-
-### Design
