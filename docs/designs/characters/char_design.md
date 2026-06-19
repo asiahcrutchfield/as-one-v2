@@ -126,18 +126,12 @@ He should feel like something Nia has carried, hugged, slept with, and held duri
 - Slightly worn fabric texture
 
 ### Accessories
-- Purple ribbon or collar
-- Small charm or sun-shaped pendant
 - Possible stitched patch or repair mark
-
-The purple ribbon can connect Sunny to Nia’s hair accessories. A sun charm can hint at the name Sunny, but the stuffed form should not look too magical.
 
 ### Color Palette
 - Warm orange
 - Soft black / charcoal stripes
 - Cream muzzle and belly
-- Purple ribbon
-- Small gold charm
 - Slight worn beige fabric tones
 
 ### Silhouette
@@ -152,7 +146,7 @@ Sunny’s stuffed form should be simple and iconic:
 Soft, beloved, comforting, loyal, worn, child-safe, warm, huggable, emotionally important.
 
 ### AI Prompt
-Design Sunny in stuffed tiger form for a narrative game. Sunny is the beloved stuffed animal of a 9-year-old girl named Nia. He should look like a soft, huggable plush tiger: rounded head, small round ears, orange fur, black stripes, cream muzzle and belly, soft paws, button-like eyes, stitched nose, embroidered whiskers, and a slightly worn loved texture. He may have a purple ribbon or small sun charm connecting him visually to Nia. He should feel child-safe, loyal, comforting, and emotionally important, not scary. Small enough for a child to carry, hug, or tuck into a backpack. Style: game prop concept art, plush toy turnaround, front/side/back views.
+Design Sunny in stuffed tiger form for a narrative game. Sunny is the beloved stuffed animal of a 9-year-old girl named Nia. He should look like a soft, huggable plush tiger: rounded head, small round ears, orange fur, black stripes, cream muzzle and belly, soft paws, button-like eyes, stitched nose, embroidered whiskers, and a slightly worn loved texture. He should feel child-safe, loyal, comforting, and emotionally important, not scary. Small enough for a child to carry, hug, or tuck into a backpack. Style: game prop concept art, plush toy turnaround, front/side/back views.
 
 ## Sunny — Actual Tiger / Paradise Guardian Form
 
@@ -172,17 +166,6 @@ He should be an actual tiger, not a cartoon mascot. He is powerful, protective, 
 - Golden eyes
 - Noble, intelligent expression
 - Calm guardian presence when not attacking
-
-### Magical Elements
-Sunny exists in Nia’s imagined paradise, so he can have subtle dreamlike details:
-- Faint golden glow
-- Sunlike highlights
-- Soft light around stripes
-- Small sparkles near paws
-- Purple ribbon or pendant echoing stuffed form
-- Gentle aura when protecting Nia
-
-Do not make him look monstrous. He should be a guardian.
 
 ### Expressions / Poses
 Important poses:
@@ -205,7 +188,9 @@ Important poses:
 Guardian, loyal, noble, powerful, protective, magical, warm, courageous, paradise, courage made visible.
 
 ### AI Prompt
-Design Sunny in his actual tiger guardian form for a narrative game. Sunny is the imagined protector of a 9-year-old girl named Nia, transformed from her stuffed tiger into a real tiger inside her paradise fantasy. He should have a believable tiger body: powerful shoulders, large paws, thick tail, rich orange fur, black stripes, cream underside, and intense golden eyes. He should feel protective, loyal, intelligent, and gentle toward Nia, but dangerous toward anything that threatens her. His expression should be noble and alert rather than monstrous. Add subtle magical guardian elements: faint golden glow, sunlike highlights, small sparkles, or a pendant/ribbon that connects him to the stuffed tiger form. Style: game creature concept art, full-body tiger, protective stance, warm dreamlike paradise atmosphere.
+Design Sunny in his actual tiger guardian form for a narrative game. Sunny is the imagined protector of a 9-year-old girl named Nia, transformed from her stuffed tiger into a real tiger inside her paradise fantasy. He should have a believable tiger body: powerful shoulders, large paws, thick tail, rich orange fur, black stripes, cream underside, and intense golden eyes. He should feel protective, loyal, intelligent, and gentle toward Nia, but dangerous toward anything that threatens her. His expression should be noble and alert rather than monstrous. Style: game creature concept art, full-body tiger, protective stance, warm dreamlike paradise atmosphere. It is based on Isaiah 11:8.
+
+Do not make him look monstrous. He should be a guardian.
 
 ---
 
