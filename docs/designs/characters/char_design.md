@@ -102,21 +102,29 @@ Sunny has two visual forms:
 1. Stuffed tiger form
 2. Actual tiger / paradise guardian form
 
-Sunny should always feel connected to Nia. He is not just a pet or weapon. He is Nia’s courage, protection, anger, and need for safety made visible.
+Sunny should always feel connected to Nia. He is not just a pet, mascot, weapon, or magical summon. He is Nia’s courage, protection, anger, and need for safety made visible.
+
+The key idea is that Sunny begins as something Nia holds for comfort, then becomes something she can stand beside for courage.
+
+---
 
 ## Sunny — Stuffed Tiger Form
 
 ### Core Visual Idea
+
 Sunny’s stuffed form is Nia’s comfort object. He should look soft, huggable, child-safe, and loved.
 
-He should feel like something Nia has carried, hugged, slept with, and held during hard moments.
+He should feel like something Nia has carried, hugged, slept with, and held during hard moments. His design should feel emotionally important, not decorative.
+
+Stuffed Sunny is what Nia holds when she needs comfort.
 
 ### Appearance
+
 - Small plush tiger
 - Rounded head
 - Small round ears
 - Soft orange body
-- Black stripes
+- Black or charcoal stripes
 - Cream muzzle
 - Cream belly
 - Soft paws
@@ -124,73 +132,134 @@ He should feel like something Nia has carried, hugged, slept with, and held duri
 - Stitched nose
 - Embroidered whiskers
 - Slightly worn fabric texture
+- Clear striped tail
+- Slightly tiger-like muzzle so he does not look too much like a teddy bear
 
 ### Accessories
+
+- Purple ribbon or simple purple collar
+- Optional small HEARTLINE charm or tag
 - Possible stitched patch or repair mark
+- The patch should feel like something repaired with love, not damage or injury
 
 ### Color Palette
+
 - Warm orange
 - Soft black / charcoal stripes
 - Cream muzzle and belly
 - Slight worn beige fabric tones
+- Small purple accent from ribbon, collar, patch, or charm
 
 ### Silhouette
+
 Sunny’s stuffed form should be simple and iconic:
+
 - Round head
 - Round body
 - Stubby paws
 - Striped tail
-- Purple ribbon
+- Purple ribbon or collar
+- Small enough for Nia to carry, hug, or tuck into a backpack
 
 ### Design Keywords
-Soft, beloved, comforting, loyal, worn, child-safe, warm, huggable, emotionally important.
+
+Soft, beloved, comforting, loyal, worn, child-safe, warm, huggable, emotionally important, repaired with love.
 
 ### AI Prompt
-Design Sunny in stuffed tiger form for a narrative game. Sunny is the beloved stuffed animal of a 9-year-old girl named Nia. He should look like a soft, huggable plush tiger: rounded head, small round ears, orange fur, black stripes, cream muzzle and belly, soft paws, button-like eyes, stitched nose, embroidered whiskers, and a slightly worn loved texture. He should feel child-safe, loyal, comforting, and emotionally important, not scary. Small enough for a child to carry, hug, or tuck into a backpack. Style: game prop concept art, plush toy turnaround, front/side/back views.
+
+Design Sunny in stuffed tiger form for a narrative game. Sunny is the beloved stuffed animal of a 9-year-old girl named Nia. He should look like a soft, huggable plush tiger: rounded head, small round ears, orange plush fabric, black or charcoal stripes, cream muzzle and belly, soft paws, button-like eyes, stitched nose, embroidered whiskers, and a slightly worn loved texture. He should feel child-safe, loyal, comforting, and emotionally important, not scary. Add a simple purple ribbon or collar and an optional small HEARTLINE charm or tag. Include a stitched patch or repair mark that feels repaired with love. Make him clearly read as a tiger plush, not a teddy bear in tiger colors. Small enough for a child to carry, hug, sleep with, or tuck into a backpack. Style: game prop concept art, plush toy turnaround, front/side/back views.
+
+---
 
 ## Sunny — Actual Tiger / Paradise Guardian Form
 
 ### Core Visual Idea
+
 Sunny’s tiger form is the stuffed tiger transformed through Nia’s imagination.
 
-He should be an actual tiger, not a cartoon mascot. He is powerful, protective, and slightly magical. He should feel dangerous to threats but gentle toward Nia.
+He should be an actual tiger, not a cartoon mascot, fantasy beast, monster, spirit animal, or Aslan-like sacred lion figure. He is powerful and protective, with a dreamlike paradise presence, but his body should still feel like a real tiger.
+
+The wonder comes from a dangerous wild animal being peaceful with a child. This idea is inspired by Isaiah 11:8, where children are safe among dangerous creatures.
+
+Guardian Sunny is what Nia feels when she finally has courage.
 
 ### Appearance
+
 - Believable tiger anatomy
 - Strong shoulders
 - Large paws
 - Thick tail
 - Rich orange fur
-- Black stripes
+- Deep black stripes
 - Cream underside
 - Golden eyes
 - Noble, intelligent expression
 - Calm guardian presence when not attacking
+- Powerful enough to feel dangerous to threats
+- Gentle enough to feel safe beside Nia
+
+### Connection to Stuffed Sunny
+
+Guardian Sunny should still feel connected to the stuffed form, but subtly.
+
+Possible shared details:
+
+- Similar forehead stripe pattern
+- Similar warm orange and cream color relationship
+- Similar gentle eye shape, but with real golden tiger eyes instead of button eyes
+- Optional subtle purple collar, ribbon, or small tag
+- Optional HEARTLINE charm only if it stays understated
+- No glowing markings unless the scene specifically calls for symbolic emphasis
+
+Avoid making the collar or charm too large, too magical, or too branded. Sunny should read first as a real tiger, then as Nia’s guardian, then as a symbol.
 
 ### Expressions / Poses
+
 Important poses:
+
 - Standing between Nia and danger
 - Low protective stance
 - Roaring to push back fear
 - Calmly walking beside Nia
 - Resting near Nia in paradise
 - Looking directly at a threat
+- Lowering himself gently near Nia
+- Watching silently while Nia notices something
 
 ### Color Palette
+
 - Rich orange
 - Deep black stripes
 - Cream fur
 - Golden eyes
 - Warm sunlight highlights
-- Small purple accent
+- Natural shadow tones
+- Small purple accent only if needed
+
+### Silhouette
+
+Guardian Sunny’s silhouette should feel like a real tiger:
+
+- Long powerful body
+- Heavy shoulders
+- Large paws
+- Strong neck and head
+- Thick tail
+- Calm but alert posture
+
+He should not look like a lion, wolf, fantasy creature, or oversized plush.
 
 ### Design Keywords
-Guardian, loyal, noble, powerful, protective, magical, warm, courageous, paradise, courage made visible.
+
+Guardian, loyal, noble, powerful, protective, real tiger, peaceful paradise, warm, courageous, companion, courage made visible.
 
 ### AI Prompt
-Design Sunny in his actual tiger guardian form for a narrative game. Sunny is the imagined protector of a 9-year-old girl named Nia, transformed from her stuffed tiger into a real tiger inside her paradise fantasy. He should have a believable tiger body: powerful shoulders, large paws, thick tail, rich orange fur, black stripes, cream underside, and intense golden eyes. He should feel protective, loyal, intelligent, and gentle toward Nia, but dangerous toward anything that threatens her. His expression should be noble and alert rather than monstrous. Style: game creature concept art, full-body tiger, protective stance, warm dreamlike paradise atmosphere. It is based on Isaiah 11:8.
 
-Do not make him look monstrous. He should be a guardian.
+Design Sunny in his actual tiger / paradise guardian form for a narrative game. Sunny is the imagined protector of a 9-year-old girl named Nia, transformed from her stuffed tiger into a real tiger inside her paradise fantasy. He should be a believable tiger, not a cartoon mascot, fantasy beast, monster, spirit animal, or sacred lion figure. Give him powerful shoulders, large paws, a thick tail, rich orange fur, deep black stripes, a cream underside, and intense golden eyes. He should feel protective, loyal, intelligent, and gentle toward Nia, but dangerous toward anything that threatens her. His expression should be noble and alert rather than monstrous.
+
+The atmosphere can feel warm, dreamlike, and paradise-like, but Sunny himself should still read as a real tiger. The wonder comes from a dangerous wild animal being peaceful with a child, inspired by Isaiah 11:8. Include poses such as standing between Nia and danger, walking calmly beside her, resting near her, lowering himself gently near her, and looking directly at a threat. Optional: include a very subtle purple collar, ribbon, or small tag to connect him visually to stuffed Sunny, but avoid glowing markings, magical armor, or overt fantasy effects. Style: game creature concept art, full-body tiger, protective stance, warm paradise atmosphere.
+
+Do not make him look monstrous. He should be a guardian and companion, not a beast or weapon.
 
 ---
 
