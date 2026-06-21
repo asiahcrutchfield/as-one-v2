@@ -183,7 +183,7 @@ Her relationship with Antoine is complicated. She loves her brother, but she kno
 ### Story Role
 Nia’s mother represents the adult world trying to comfort and protect Nia. She also creates emotional tension around whether Nia should be allowed to attend Jazz Fest.
 
-## Antoine's Girlfriend [tentative name]
+## Janelle
 
 - Age: 28-32 [tentative]
 - Residence: New Orleans

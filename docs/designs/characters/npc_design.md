@@ -157,7 +157,7 @@ Design Nia’s mother for a narrative game. She is a Black woman in her early-to
 
 ---
 
-## Antoine’s Girlfriend [tentative name]
+## Janelle
 
 ### Core Visual Idea
 Antoine’s girlfriend is emotionally perceptive and grounded. She supports Antoine, but she is not there to save him from himself.
