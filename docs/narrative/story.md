@@ -52,7 +52,9 @@ Antoine’s old crew has a reputation for handling unofficial work around major 
 
 They are not the people behind the HEARTLINE threat. They are hired by someone connected to the Taiwan side because they know the city, the venues, the back routes, and the people who can get close to Jazz Fest without drawing attention.
 
-His gameplay is about protecting people without becoming the violent man he is trying to leave behind.
+Before the main crisis, Antoine has taken up boxing at a local gym. Boxing is part of his attempt to build a disciplined life and redirect the strength and aggression that once made him useful to dangerous people. Inside the ring, he is learning patience, restraint, footwork, and how to listen to his corner.
+
+His gameplay is a beat-'em-up style built around boxing fundamentals. His story tests whether that discipline survives outside the ring, where there are no rules and the people he loves are in danger.
 
 ### 陳柏安
 柏安 is investigating the Taiwan side: suspicious travel changes, fake access requests, strange communications, and security risks around HEARTLINE.
@@ -121,19 +123,23 @@ Nia wants to see HEARTLINE at Jazz Fest for herself and Annika.
 
 #### Prologue: Antoine — The Warning
 
-Antoine’s prologue introduces his life in New Orleans, his connection to Nia, and his attempt to stay away from the world he used to be part of.
+Antoine’s prologue introduces his life in New Orleans, his connection to Nia and Janelle, and his attempt to build a disciplined life outside the world he used to be part of.
 
-The player sees Antoine trying to live quietly: checking on Nia, avoiding old contacts, and trying to be the kind of man his family can rely on.
+The prologue begins at Antoine’s local boxing gym. During a sparring session, the player learns his beat-'em-up controls through boxing fundamentals: movement, jabs, combinations, guarding, slipping, counters, stamina, and footwork.
 
-The prologue hints that people from Antoine’s past are becoming active again because of Jazz Fest. At first, Antoine does not know the job is connected to HEARTLINE, but he can tell something is moving.
+The sparring session also introduces Antoine’s central flaw. When he becomes frustrated, he may begin throwing too hard or chasing the knockout instead of listening to his coach. The coach stops the round and reminds him that strength without control is a liability.
 
-People from his old life approach him for help with access, routes, or local contacts connected to the festival. Antoine refuses.
+After training, the player sees Antoine’s ordinary life. He checks on Nia, spends time with Janelle, and talks about an upcoming amateur bout or local exhibition. Boxing represents a future he has chosen for himself, not merely a talent inherited from his violent past.
+
+The prologue then hints that people from Antoine’s past are becoming active again because of Jazz Fest. At first, Antoine does not know the job is connected to HEARTLINE, but he can tell something is moving.
+
+People from his old life approach him for help with access, routes, or local contacts connected to the festival. They mock his new disciplined life and try to provoke him into proving that he has not changed. Antoine refuses the job and resists the opportunity to attack them.
 
 The situation becomes personal when they notice his connection to Nia and threaten that something could happen to her if he does not cooperate.
 
 By the end of Antoine’s prologue, his conflict is clear:
 
-Antoine wants to protect Nia without being pulled back into the life he escaped.
+Antoine wants to protect Nia and preserve the life he is building without abandoning the discipline he has learned or being pulled back into the violence he escaped.
 
 #### Prologue: 陳柏安 — The Irregularity
 
@@ -167,7 +173,7 @@ After the prologue, all three characters are moving toward Jazz Fest for differe
 
 Nia is determined to see HEARTLINE for both herself and Annika.
 
-Antoine tries to keep Nia safe while people from his old life pressure him to cooperate.
+Antoine continues training for his amateur bout while trying to keep Nia safe and hide the pressure coming from people in his old life.
 
 柏安 investigates HEARTLINE’s travel, equipment, and security irregularities.
 
