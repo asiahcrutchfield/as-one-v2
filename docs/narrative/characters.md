@@ -686,24 +686,107 @@ The difference is that understanding his reasons no longer means protecting him 
 
 ---
 
-## HEARTLINE
+# HEARTLINE
 
-HEARTLINE is an internationally famous Taiwanese pop group scheduled to perform at Jazz Fest in New Orleans.
+* Origin: Taiwan
+* Type: International pop group
+* Language: Mandarin Chinese / additional languages as appropriate [tentative]
+* Playable: No
+* Role: Emotional anchor / central point of convergence
 
-The group functions as the central point where otherwise unrelated lives begin to intersect.
+## Background
 
-For Nia and Annika, HEARTLINE represents friendship, music, and the promise they made to attend Jazz Fest together.
+HEARTLINE is an internationally successful Taiwanese pop group whose popularity has expanded beyond Taiwan through touring, online fandom, and international festival appearances.
 
-For Antoine, the group initially has little personal meaning. HEARTLINE becomes relevant because people from Antoine’s past are hired as local fixers surrounding the group’s festival appearance and begin using Devin as a minor participant in their operation.
+The group is scheduled to perform at a major music festival in New Orleans.
 
-For 柏安, HEARTLINE begins as work. A seemingly minor irregularity involving the group’s travel and equipment escalates into a serious international security concern and forces him to choose between another professional obligation and the promise he made to his daughter.
+Their appearance attracts significant attention because HEARTLINE is one of the festival’s major international acts.
 
-HEARTLINE’s music also appears throughout Nia’s story as part of her memories of Annika and as something she uses to stay grounded when she becomes afraid.
+The members of HEARTLINE themselves are not responsible for the criminal scheme surrounding their tour.
 
-### Story Role
+Instead, the scale of their success has created a large touring operation involving management, equipment crews, contractors, transportation companies, security staff, promoters, temporary workers, and local event partners.
 
-HEARTLINE should not be treated as the protagonist of the story.
+That complexity has allowed someone inside the logistics or management structure to exploit the touring system for personal gain.
 
-The group is the point of convergence.
+International production expenses have been deliberately inflated, with excess money routed through cooperating contractors and partially returned to the insider.
 
-Their appearance at Jazz Fest creates the event where Nia’s promise, Antoine’s struggle to protect Devin, 柏安’s investigation, and the larger criminal threat finally collide.
+Because HEARTLINE moves large amounts of equipment and money between countries, suspicious costs can be disguised as normal touring expenses.
+
+A whistleblower inside the touring operation eventually discovers the pattern and begins collecting evidence.
+
+Before HEARTLINE leaves Taiwan for New Orleans, the whistleblower hides physical proof inside an obsolete equipment case from one of the group’s previous tours.
+
+That case travels with the rest of the group’s equipment to Jazz Fest.
+
+## Connection to Nia and Annika
+
+For Nia and Annika, HEARTLINE has nothing to do with crime.
+
+The group is part of their friendship.
+
+The girls watch performances together, argue about their favorite songs and eras, recognize old costumes and logos, and dream about seeing HEARTLINE live.
+
+Their plan to attend HEARTLINE’s Jazz Fest performance becomes one of their shared promises.
+
+After Annika dies, HEARTLINE becomes emotionally inseparable from Nia’s memory of her.
+
+Nia decides to attend the performance for both of them.
+
+Because she and Annika were such devoted fans, Nia knows HEARTLINE’s visual history unusually well.
+
+She can recognize old tour branding, logos, equipment designs, colors, and other details that adults around her would consider meaningless.
+
+That knowledge eventually allows her to recognize that an older HEARTLINE equipment case does not belong among the group’s current touring gear.
+
+## Connection to Antoine
+
+HEARTLINE initially means very little to Antoine personally.
+
+His connection develops through the people around him.
+
+Nia loves the group because of Annika.
+
+The New Orleans fixers connected to Antoine’s past are hired to retrieve evidence hidden somewhere inside HEARTLINE’s equipment.
+
+Those fixers manipulate Devin into helping them by arranging legitimate temporary festival work and asking him to move a particular equipment case.
+
+HEARTLINE therefore becomes the point where Antoine’s responsibilities toward Nia and Devin collide with the life he has been trying to leave behind.
+
+## Connection to 陳柏安
+
+For 柏安, HEARTLINE initially represents work.
+
+His investigation begins with a small security irregularity surrounding the group’s international travel and festival preparation.
+
+As he examines credentials, contractors, equipment records, and suspicious access, he discovers financial irregularities that suggest HEARTLINE’s international touring operation has been exploited for a larger criminal scheme.
+
+柏安 follows the investigation to New Orleans because he understands which records and credentials may already have been compromised.
+
+His involvement with HEARTLINE therefore creates the professional obligation that once again interrupts his relationship with his daughter.
+
+## Story Role
+
+HEARTLINE is not the protagonist of **As One**.
+
+The group is the point where the protagonists’ unrelated lives intersect.
+
+For Nia, HEARTLINE is memory.
+
+For Antoine, HEARTLINE is where his past begins threatening the people he cares about.
+
+For 柏安, HEARTLINE is responsibility.
+
+Their Jazz Fest appearance creates the environment where all three meanings collide.
+
+HEARTLINE also supports the game’s central idea that the same object or event can carry completely different meaning depending on who is experiencing it.
+
+A HEARTLINE equipment case can simultaneously be:
+
+* a piece of touring equipment to an ordinary worker;
+* a target to the fixer crew;
+* evidence to 柏安;
+* a mistake Devin wishes he had never touched;
+* and an instantly recognizable piece of HEARTLINE history to Nia.
+
+That difference in perspective is central to **As One**.
+

@@ -1,222 +1,451 @@
-# Core Plot
+# AS ONE — Updated Core Story
 
-HEARTLINE, an internationally famous Taiwanese pop act, is coming to New Orleans to perform at Jazz Fest. Their appearance is supposed to be a celebration, but someone is using the group’s international trip as cover to recover or destroy hidden evidence.
+## Core Plot
 
-The evidence was hidden inside HEARTLINE’s festival equipment by someone close to the group. It could expose a criminal arrangement between a Taiwan-side insider and a New Orleans crew hired to handle local access, intimidation, and retrieval.
+HEARTLINE, an internationally famous Taiwanese pop group, is traveling to New Orleans to perform at Jazz Fest.
 
-The Taiwan-side insider wants the evidence destroyed before it reaches authorities. The New Orleans crew does not know the full international story. They are local fixers who know Jazz Fest service routes, fake credentials, vendor access, and how to move through the city without drawing attention.
+For most people, their appearance is simply a major international performance.
 
-Nia, Antoine, and 陳柏安 are pulled into the same crisis from different sides.
+Behind the scenes, however, someone connected to HEARTLINE’s touring and logistics operation has been using the group’s international performances as part of a long-running financial scheme.
 
-Nia is not investigating on purpose. She only wants to see HEARTLINE because it was the dream she shared with Annika before Annika died. But because she is a fan, because she notices small details, and because adults underestimate her, she becomes an unexpected witness to something important.
+Production and event costs for overseas performances have been deliberately inflated. Contractors are officially paid far more than the services actually cost, and portions of the excess money are quietly returned to someone inside HEARTLINE’s operation.
 
-Antoine is pulled in because the New Orleans crew comes from his old life. They approach him for help with access, routes, or local contacts. When he refuses, they notice his connection to Nia and threaten that something could happen to her if he does not cooperate.
+Some contractors provide legitimate services such as transportation, security, equipment handling, or staging.
 
-陳柏安 is pulled in from Taiwan as part of an international security liaison team investigating suspicious activity around HEARTLINE’s trip. His job is to connect evidence, coordinate with security, and stop the danger before Jazz Fest becomes a public disaster.
+Others provide less legitimate help: unauthorized access, intimidation, falsified credentials, or quiet assistance when something needs to disappear.
 
-The three characters are not connected by coincidence. They are connected because HEARTLINE’s performance is the meeting point for all three stories:
+The scheme has survived because every individual transaction can be made to look like an ordinary part of the enormous cost of moving an international music act from country to country.
 
-- For Nia, HEARTLINE represents Annika’s memory.
-- For Antoine, HEARTLINE’s arrival pulls his past back into his life and puts Nia in danger.
-- For 陳柏安, HEARTLINE is the center of the investigation.
+Someone inside HEARTLINE’s logistics operation eventually realizes that the numbers do not make sense.
+
+This whistleblower begins collecting physical proof: original invoices, altered invoices, payment records, internal approvals, and other documents capable of showing the difference between what services actually cost and what HEARTLINE was officially charged.
+
+The whistleblower is afraid that digital evidence can be deleted, altered, traced, or discovered before they know whom they can trust.
+
+Instead, they hide the physical evidence inside an older HEARTLINE equipment case that is being transported with the group’s gear to New Orleans.
+
+The case comes from a previous HEARTLINE tour and is no longer part of the group’s normal current inventory.
+
+That makes it easy to overlook.
+
+It also makes it something Nia would recognize.
+
+---
+
+## 柏安’s Investigation
+
+陳柏安 does not initially investigate financial corruption.
+
+His case begins with a much smaller security irregularity involving HEARTLINE.
+
+A legitimate credential is activated at the wrong time.
+
+An access request comes from a contractor who should not need it.
+
+A piece of equipment appears in a manifest under inconsistent information.
+
+A schedule change does not match the security plan HEARTLINE submitted.
+
+Individually, the discrepancies look minor.
+
+柏安 begins comparing them.
+
+The same contractors connected to unusual security access also appear in suspicious payments and inflated event expenses.
+
+When he looks further back, similar patterns appear around previous international HEARTLINE performances.
+
+What first looked like a security problem begins looking like part of a larger logistics and financial scheme.
+
+柏安 becomes the investigator most familiar with the emerging pattern.
+
+By the time HEARTLINE’s equipment is already moving toward New Orleans, he knows several important things:
+
+* someone inside the touring operation may be compromised;
+* legitimate credentials may be getting used for unofficial purposes;
+* certain contractors cannot be trusted;
+* someone appears to be searching for something connected to the group’s equipment;
+* the New Orleans stop may be especially important.
+
+柏安’s superior assigns him to accompany the investigation to New Orleans because he already understands which records and credentials may have been manipulated.
+
+Professionally, going is the correct decision.
+
+Personally, it means breaking another promise to his daughter.
+
+---
+
+## The New Orleans Fixers
+
+The person behind the scheme realizes that somebody has been collecting evidence.
+
+They do not know exactly where the evidence is.
+
+They know only that something may have been hidden inside equipment already traveling with HEARTLINE to New Orleans.
+
+Rather than personally exposing themselves, they contact people who have previously handled unofficial work around HEARTLINE’s overseas events.
+
+In New Orleans, that means a local fixer crew connected to Antoine’s past.
+
+The fixers are not the architects of the international scheme.
+
+To them, this is another paid job.
+
+They have been told to locate an older HEARTLINE equipment case, move it away from normal festival handling, and retrieve anything hidden inside it before police, festival security, or HEARTLINE staff discover it.
+
+They know the festival environment well enough to exploit temporary labor, service entrances, vendor access, loading areas, and legitimate credentials.
+
+They also know that Antoine understands this world.
+
+Some of them approach him.
+
+Antoine refuses.
+
+The situation becomes more dangerous when the crew realizes they may have another way into the festival environment:
+
+Devin.
+
+---
+
+## Devin’s Favor
+
+Devin is already angry and vulnerable.
+
+He wants revenge after being humiliated in a confrontation with another teenager.
+
+Older men connected to Antoine’s former life have been encouraging him to retaliate.
+
+They present themselves as people willing to help Devin solve the problem Antoine keeps telling him to walk away from.
+
+They also offer Devin something that initially looks completely legitimate:
+
+temporary work helping around Jazz Fest setup.
+
+To Devin, it is easy money and a chance to prove that he can handle himself.
+
+The work gives him legitimate access to areas where temporary staff move supplies and equipment.
+
+Late in a shift, one of the older men asks Devin for a simple favor.
+
+Move a HEARTLINE equipment case from one staging area to another.
+
+That is all.
+
+Devin does not know about the whistleblower.
+
+He does not know about the financial scheme.
+
+He does not know why the case matters.
+
+He thinks he is doing a small favor for people who have treated him like an adult.
+
+He moves the case.
+
+But it is the wrong one.
+
+The crew was working from incomplete information about which older HEARTLINE case contains the evidence.
+
+Devin’s mistake creates a visible inconsistency in the equipment movement.
+
+A case appears where it should not be.
+
+A legitimate temporary credential is attached to the movement.
+
+柏安 notices the anomaly.
+
+The fixers realize they still do not have the evidence.
+
+And Devin begins realizing that the job he agreed to is much more serious than he thought.
+
+---
+
+## Nia’s Observation
+
+Nia is not investigating anyone.
+
+She is around Jazz Fest because she is determined to see HEARTLINE for herself and Annika.
+
+Because Nia and Annika were obsessive fans, Nia knows things about HEARTLINE that are meaningless to almost everyone else.
+
+She remembers old concerts.
+
+Old logos.
+
+Old stage designs.
+
+Old costumes.
+
+Old tour colors.
+
+She and Annika may have spent hours rewatching performances and arguing about their favorite HEARTLINE eras.
+
+During the events surrounding the festival, Nia notices an older equipment case mixed in with the current tour gear.
+
+To the adults around her, it is simply another road case.
+
+To Nia, it is immediately recognizable.
+
+It belongs to an older HEARTLINE tour.
+
+The branding is wrong for the current era.
+
+The case should not be there.
+
+Nia does not think this means a crime has occurred.
+
+She simply remembers it because it is strange.
+
+That observation eventually becomes critical.
+
+---
+
+## The First Convergence
+
+Devin becomes frightened after seeing how seriously the fixers react to his mistake.
+
+He turns to Antoine.
+
+Antoine realizes that the same men he has been trying to keep Devin away from have already used him.
+
+His instinct is to solve the situation himself before police or anyone else can treat Devin like a criminal.
+
+At the same time, 柏安 is tracing the suspicious equipment movement.
+
+A legitimate temporary worker credential leads him toward Devin.
+
+Devin leads him toward Antoine.
+
+From 柏安’s perspective, the situation looks suspicious:
+
+* a teenager moved compromised equipment;
+* the teenager is connected to a man with known relationships to people involved in the investigation;
+* Antoine is reluctant to tell authorities everything he knows.
+
+From Antoine’s perspective, 柏安 represents exactly what he fears:
+
+an investigator who sees Devin first as part of a security breach rather than as a frightened 15-year-old being manipulated by adults.
+
+Their first real conflict is therefore not personality-based.
+
+It is about Devin.
+
+柏安 needs information quickly because more people may be in danger.
+
+Antoine wants Devin protected before he is pressured into saying or doing something that makes the situation worse.
+
+Both men are partly right.
+
+Nia then becomes the unexpected third piece.
+
+She mentions the old HEARTLINE case.
+
+柏安 realizes she may have seen the piece of equipment he has been trying to identify.
+
+Antoine immediately becomes uncomfortable with Nia being involved at all.
+
+柏安 needs her to explain what she saw.
+
+Antoine wants her removed from the situation.
+
+Nia wants both adults to actually listen to her.
+
+For the first time, the three playable characters are not simply moving toward the same event.
+
+They are directly involved in the same problem.
+
+---
+
+## Why Each Character Matters
+
+Each character understands one part of the situation that the others cannot.
+
+### Nia
+
+Nia understands HEARTLINE as a fan.
+
+She recognizes details about the group’s visual history and equipment that mean nothing to investigators or local criminals.
+
+She does not solve the conspiracy.
+
+She notices what does not belong.
+
+### Antoine
+
+Antoine understands the people.
+
+He knows the local fixers, their relationships, their habits, and what kinds of threats they are willing to carry out.
+
+More importantly, he understands what they are doing to Devin because he remembers being influenced by similar men.
+
+### 陳柏安
+
+柏安 understands the system.
+
+He can connect credential use, equipment movement, suspicious contractors, financial records, and security information into a larger pattern.
+
+He knows why the strange case matters even though he cannot initially identify it.
+
+None of them has enough information alone.
+
+---
 
 ## Main Story Question
 
-Can Nia, Antoine, and 陳柏安 uncover the truth hidden around HEARTLINE’s Jazz Fest performance before the people trying to bury it put innocent lives in danger?
+Can Nia, Antoine, and 陳柏安 understand what each of them knows quickly enough to locate the hidden evidence, protect Devin and the people around HEARTLINE, and stop the New Orleans fixers from recovering it?
 
-## Underlying Threat
+---
 
-A Taiwan-side insider connected to HEARTLINE’s travel, management, or security is trying to recover hidden evidence before the group performs at Jazz Fest.
+## Thematic Connection
 
-The evidence is hidden inside HEARTLINE’s festival equipment. It may be a drive, recording, document package, or other proof that exposes a criminal arrangement between people in Taiwan and New Orleans.
+The central threat forces all three characters to confront different ideas of protection.
 
-The New Orleans crew is not the mastermind. They are hired local fixers. Their job is to exploit Jazz Fest access, retrieve the correct equipment case, and make sure the evidence disappears.
+Nia imagines protection through Sunny.
 
-This keeps the threat grounded:
+Antoine believes protection means personally standing between danger and the people he loves.
 
-- Taiwan side: access, travel records, equipment manifests, security credentials.
-- New Orleans side: service routes, fake badges, vendor pressure, local intimidation.
-- Nia side: fan details, memory, HEARTLINE knowledge, and overlooked observations.
+柏安 believes protection means understanding and controlling enough of the situation that danger can be prevented.
 
-## Character Connections
+All three strategies have limits.
 
-### Nia
-Nia and Annika loved HEARTLINE and planned to see them together. After Annika’s death, Nia wants to go to Jazz Fest for both of them.
+Nia cannot make every frightening thing disappear.
 
-Because Nia is a fan, she notices details adults miss: a wrong logo, a fake staff badge, a repeated phrase, a suspicious person near the equipment, or something connected to HEARTLINE fandom.
+Antoine cannot personally fight every problem.
 
-Her gameplay is about overcoming fear and grief long enough to notice, remember, hide, escape, or speak.
+柏安 cannot gather perfect information before every decision.
 
-### Antoine
-Antoine’s old crew has a reputation for handling unofficial work around major New Orleans events: moving people through restricted areas, getting fake credentials, pressuring vendors, guarding illegal handoffs, and making problems disappear.
+The characters succeed when they stop treating protection as something one person provides alone.
 
-They are not the people behind the HEARTLINE threat. They are hired by someone connected to the Taiwan side because they know the city, the venues, the back routes, and the people who can get close to Jazz Fest without drawing attention.
+They begin sharing what they know, trusting what the others can do, and allowing each person to carry a part of the problem.
 
-Before the main crisis, Antoine has taken up boxing at a local gym. Boxing is part of his attempt to build a disciplined life and redirect the strength and aggression that once made him useful to dangerous people. Inside the ring, he is learning patience, restraint, footwork, and how to listen to his corner.
+That is the meaning of **As One**.
 
-His gameplay is a beat-'em-up style built around boxing fundamentals. His story tests whether that discipline survives outside the ring, where there are no rules and the people he loves are in danger.
+---
 
-### 陳柏安
-柏安 is investigating the Taiwan side: suspicious travel changes, fake access requests, strange communications, and security risks around HEARTLINE.
+# Story Structure
 
-He follows the evidence trail to New Orleans and realizes the threat is bigger than a simple fan/stalker/security issue.
+## Prologue — Three Lives
 
-His gameplay is about identifying suspects, securing routes, coordinating with event security, and controlling the situation without pretending he has full police authority in America.
+The prologue introduces each playable character before the HEARTLINE crisis connects them.
 
-## One Clue, Three Perspectives
+### Nia — The Promise
 
-The story uses repeated clues that each playable character understands differently.
+The player experiences Nia and Annika’s friendship, their Jehovah’s Witness upbringing, their shared paradise games, and their love of HEARTLINE.
 
-## Nia’s Music Mechanic
+Their excitement about Jazz Fest establishes HEARTLINE’s older tours and visual history naturally through the girls’ fandom.
 
-HEARTLINE’s music is part of Nia and Annika’s bond. When Nia is afraid, memories of their favorite songs help her stay present.
+This can quietly establish the old tour branding that later becomes important.
 
-The music does not erase Nia’s grief. It helps her hold steady long enough to hide, observe, remember, or speak.
+Annika is then killed by stray gunfire.
 
-In gameplay, this may appear as a short rhythm, breathing, or pattern-matching mechanic.
+After her death, Nia decides she still wants to attend HEARTLINE’s Jazz Fest performance for both of them.
 
-Examples:
+Sunny becomes increasingly important inside Nia’s imagined paradise.
 
-- Hum: lowers panic while Nia is hiding.
-- Remember: triggers a memory of Annika that helps Nia process a clue.
-- Listen: lets Nia notice a HEARTLINE-related detail adults miss.
-- Sunny Guard: lets Sunny protect Nia from fear, panic, or imagined danger.
-- Sunny Sense: reveals hidden details inside Nia’s paradise space.
+### Antoine — The Corner
 
-### Example: The Wrong Badge
+The player meets Antoine at the boxing gym.
 
-柏安 sees that a HEARTLINE access badge was activated early and does not match the official security schedule.
+His tutorial establishes that boxing is about control rather than uncontrolled aggression.
 
-Antoine recognizes the name connected to the badge as someone from his old crew.
+Devin is introduced as the younger boxer Antoine has gradually begun mentoring.
 
-Nia notices the badge looks wrong because it uses an outdated HEARTLINE logo that only a fan would recognize.
+The player sees Devin’s anger following a confrontation and the older men around him encouraging retaliation.
 
-Each character has part of the truth, but none of them can solve the crisis alone.
+Antoine recognizes the danger but struggles to explain it without revealing more about his own past.
 
-## Story Structure
+### 陳柏安 — One More Thing
 
-### Prologue: Three Setups
+The player sees 柏安 with his daughter and the promise he makes to finally spend uninterrupted time with her.
 
-The prologue introduces HEARTLINE, the three playable characters, and the personal reasons each character is pulled toward the main crisis.
+His work tutorial begins with a small HEARTLINE security discrepancy.
 
-The player must complete all three prologues before the story opens up. After the prologue, the player can choose which character’s POV to continue with as the plot progresses.
+The player follows the evidence through credentials, contractors, and records until the irregularity begins looking larger than a routine event-security problem.
 
-The prologue is the setup phase. It shows the events that make Jazz Fest, HEARTLINE, and the hidden evidence matter to Nia, Antoine, and 陳柏安 before their stories begin crossing more directly.
+柏安 is assigned to continue the investigation in New Orleans.
 
-#### Prologue: Nia — The Promise
+He breaks his promise again.
 
-Nia’s prologue introduces her friendship with Annika, their shared love of HEARTLINE, and their plan to see HEARTLINE together at Jazz Fest.
+---
 
-The player first experiences Nia and Annika’s normal life: playing together, talking about HEARTLINE, sharing songs, doing small everyday activities, and imagining what it will be like to see the group live.
+## Act 1 — Separate Problems
 
-This section should make Annika feel present before she is gone. She is not introduced only to die. She is introduced as Nia’s best friend, the person who encourages her, and the person HEARTLINE means the most with.
+The three characters continue pursuing their own goals.
 
-Annika is then killed by stray gunfire during gang-related violence in the neighborhood. She was not involved and was not the target.
+Nia tries to convince her mother that attending Jazz Fest still matters.
 
-After Annika’s death, Nia’s grief changes the meaning of HEARTLINE. Seeing the group is no longer just something fun. It becomes the promise Nia wants to keep for both of them.
+Antoine tries to keep Devin focused on boxing rather than revenge.
 
-Nia begins imagining Sunny as her protector in paradise. HEARTLINE songs, memories of Annika, and Sunny become the emotional tools that help Nia face fear, grief, and danger.
+柏安 arrives in New Orleans and begins coordinating with HEARTLINE’s security team and local authorities.
 
-By the end of Nia’s prologue, her goal is clear:
+The audience understands that HEARTLINE connects the stories, but the characters do not yet know one another.
 
-Nia wants to see HEARTLINE at Jazz Fest for herself and Annika.
+---
 
-#### Prologue: Antoine — The Warning
+## Act 2 — The Wrong Case
 
-Antoine’s prologue introduces his life in New Orleans, his connection to Nia and Janelle, and his attempt to build a disciplined life outside the world he used to be part of.
+Devin accepts temporary festival work through men connected to Antoine’s past.
 
-The prologue begins at Antoine’s local boxing gym. During a sparring session, the player learns his beat-'em-up controls through boxing fundamentals: movement, jabs, combinations, guarding, slipping, counters, stamina, and footwork.
+They ask him to move an older HEARTLINE case.
 
-The sparring session also introduces Antoine’s central flaw. When he becomes frustrated, he may begin throwing too hard or chasing the knockout instead of listening to his coach. The coach stops the round and reminds him that strength without control is a liability.
+He moves the wrong case.
 
-After training, the player sees Antoine’s ordinary life. He checks on Nia, spends time with Janelle, and talks about an upcoming amateur bout or local exhibition. Boxing represents a future he has chosen for himself, not merely a talent inherited from his violent past.
+The equipment anomaly becomes visible to 柏安.
 
-The prologue then hints that people from Antoine’s past are becoming active again because of Jazz Fest. At first, Antoine does not know the job is connected to HEARTLINE, but he can tell something is moving.
+The fixers realize their retrieval attempt has failed.
 
-People from his old life approach him for help with access, routes, or local contacts connected to the festival. They mock his new disciplined life and try to provoke him into proving that he has not changed. Antoine refuses the job and resists the opportunity to attack them.
+Nia notices an old HEARTLINE case that does not belong with the current tour equipment.
 
-The situation becomes personal when they notice his connection to Nia and threaten that something could happen to her if he does not cooperate.
+Devin realizes something is wrong and turns to Antoine.
 
-By the end of Antoine’s prologue, his conflict is clear:
+This is the main inciting incident that begins forcing the playable characters together.
 
-Antoine wants to protect Nia and preserve the life he is building without abandoning the discipline he has learned or being pulled back into the violence he escaped.
+---
 
-#### Prologue: 陳柏安 — The Irregularity
+## Act 3 — The Crossing
 
-柏安’s prologue introduces HEARTLINE from the Taiwan side and establishes the official investigation.
+柏安 traces the equipment movement to Devin.
 
-The player investigates a small irregularity connected to HEARTLINE’s trip: a changed equipment manifest, an early badge activation, a suspicious access request, or a security message that does not match the official schedule.
+Antoine tries to shield Devin while also figuring out what his former associates are planning.
 
-At first, the issue looks like a minor travel or event-security problem. As 柏安 investigates, he realizes someone close to HEARTLINE may be using the group’s New Orleans trip to recover or destroy hidden evidence.
+Nia’s observation about the old HEARTLINE case becomes important.
 
-The investigation points toward HEARTLINE’s festival equipment and suspicious access around Jazz Fest.
+柏安 and Antoine initially distrust each other.
 
-By the end of 柏安’s prologue, his case is clear:
+Nia is caught between adults who both want to protect her but do not necessarily listen to her.
 
-柏安 must follow the evidence trail to New Orleans before HEARTLINE’s Jazz Fest performance becomes dangerous.
+The characters begin revisiting the same clues from different perspectives.
 
-### Open POV Structure
+柏安 understands the records.
 
-After all three prologues are completed, the player can choose which character’s POV to follow next.
+Antoine understands the people.
 
-Each POV advances a different layer of the same crisis:
+Nia understands HEARTLINE.
 
-- Nia’s POV focuses on grief, memory, observation, HEARTLINE fandom, Sunny, and the details adults overlook.
-- Antoine’s POV focuses on protection, local danger, his old crew, and the pressure placed on him through Nia.
-- 柏安’s POV focuses on evidence, security systems, suspicious records, equipment access, and tactical response.
+---
 
-The player may jump between POVs as the story progresses. Each character can uncover clues that create new options, context, or consequences for the others.
+## Act 4 — Jazz Fest
 
-### Act 1: The Pull
+The fixers identify the case they actually need and make another attempt to retrieve it during the chaos surrounding HEARTLINE’s performance.
 
-After the prologue, all three characters are moving toward Jazz Fest for different reasons.
+The festival becomes the point where every storyline collides.
 
-Nia is determined to see HEARTLINE for both herself and Annika.
+Nia is determined to keep her promise to Annika.
 
-Antoine continues training for his amateur bout while trying to keep Nia safe and hide the pressure coming from people in his old life.
+Devin must decide whether he will continue helping the men who manipulated him.
 
-柏安 investigates HEARTLINE’s travel, equipment, and security irregularities.
+Antoine must protect people without reverting to the violence and secrecy of his past.
 
-The characters are still separated, but HEARTLINE has become the center pulling all three toward the same crisis.
+柏安 must make tactical decisions without having complete information and trust people whose knowledge does not fit neatly into official records.
 
-### Act 2: The Crossing
+Nia’s fear causes the real-world crisis to bleed into her imagined paradise.
 
-The separate POVs begin affecting each other.
+Sunny protects her as she navigates danger, remembers what she saw, and finds enough courage to speak when the adults need her.
 
-柏安’s investigation points toward New Orleans local fixers, fake credentials, and suspicious festival access.
+Antoine deals with the immediate physical threat.
 
-Antoine realizes the people pressuring him are involved with the threat surrounding HEARTLINE.
+柏安 coordinates the larger response.
 
-Nia notices something strange connected to HEARTLINE, but adults do not immediately understand why it matters.
+The crisis is stopped because each character carries the part the others cannot.
 
-The player begins seeing the same clues from different perspectives. 柏安 understands the official evidence. Antoine recognizes the local people. Nia notices fan-facing details and emotional details that others miss.
+They do not become identical.
 
-### Act 3: The Convergence
-
-The danger around Jazz Fest becomes immediate.
-
-The crew prepares to retrieve the equipment case containing the hidden evidence.
-
-Antoine brings Nia to the festival because he knows how much HEARTLINE means to her and Annika. He believes he can protect her himself.
-
-柏安 coordinates with event security and local authorities as the evidence trail leads toward HEARTLINE’s festival equipment.
-
-Nia’s memories and observations reveal a detail neither adult can see clearly.
-
-The three stories begin converging around the same location, the same equipment, and the same threat.
-
-### Act 4: Jazz Fest
-
-At Jazz Fest, the crew attempts to retrieve the equipment case containing the hidden evidence.
-
-As the situation becomes more dangerous, Antoine tries to take Nia away. Nia does not understand the full danger. She thinks Antoine is stopping her from keeping her promise to Annika, so she slips away to see HEARTLINE.
-
-Nia’s fear and grief trigger her imagined paradise. HEARTLINE music, memories of Annika, and Sunny help her stay calm long enough to hide, observe, and remember the detail that reveals the correct equipment case or suspect.
-
-Antoine searches for Nia while confronting the people from his old life.
-
-柏安 coordinates with event security and local authorities, using the evidence trail to contain the threat.
-
-The crisis is stopped because all three characters act from their own layer of the story.
-
-They win not because one person solves everything, but because their separate actions finally work as one.
+They act **as one**.
